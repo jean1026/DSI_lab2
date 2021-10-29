@@ -1,0 +1,11 @@
+Package: DRGfuncs
+Type: Package
+Title: Lab2 DRG functions
+Version: 0.1.0
+Author: Jin Zhu
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: The package contains two functions that one creates a boxplot of payments by DRG code
+  and the other one calculates statistics over all of the DRG codes for average Medicare payments.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
